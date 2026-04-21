@@ -1,0 +1,12 @@
+{
+  "id": "com.kycx.ophiim",
+  "version": "1.0.0",
+  "vendor": "KYCX",
+  "type": "web",
+  "main": "index.html",
+  "title": "OPhim TV",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "bgColor": "#070710",
+  "resolution": "1920x1080"
+}
