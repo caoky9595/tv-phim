@@ -1,10 +1,10 @@
 {
-  "id": "com.kycx.ophiim",
+  "id": "com.kycx.kphim",
   "version": "1.0.0",
   "vendor": "KYCX",
   "type": "web",
   "main": "index.html",
-  "title": "OPhim TV",
+  "title": "Kphim",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
   "bgColor": "#070710",

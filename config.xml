@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/OPhimTV" version="1.0.0" viewmodes="fullscreen">
-    <tizen:application id="KYCXOPHIM1.OPhimTV" package="KYCXOPHIM1" required_version="3.0"/>
+<widget xmlns:tizen="http://tizen.org/ns/widgets" xmlns="http://www.w3.org/ns/widgets" id="http://yourdomain/Kphim" version="1.0.0" viewmodes="fullscreen">
+    <tizen:application id="KYCXKPHIM1.Kphim" package="KYCXKPHIM1" required_version="3.0"/>
     <content src="index.html"/>
     <feature name="http://tizen.org/feature/screen.size.normal"/>
     <icon src="icon.png"/>
-    <name>OPhim TV</name>
+    <name>Kphim</name>
     <tizen:profile name="tv"/>
     <tizen:setting screen-orientation="landscape" context-menu="disable" background-support="disable" encryption="disable" install-location="auto" hwkey-event="enable"/>
     <access origin="*" subdomains="true"></access>

@@ -1,6 +1,6 @@
-# 🎬 OPhim TV - Premium Smart TV App
+# 🎬 Kphim - Premium Smart TV App
 
-OPhim TV là một ứng dụng xem phim chất lượng cao được thiết kế chuyên biệt cho hệ điều hành **Smart TV** (Samsung Tizen, LG WebOS) mang lại trải nghiệm xem phim chuyên nghiệp chuẩn rạp chiếu tại nhà.
+Kphim là một ứng dụng xem phim chất lượng cao được thiết kế chuyên biệt cho hệ điều hành **Smart TV** (Samsung Tizen, LG WebOS) mang lại trải nghiệm xem phim chuyên nghiệp chuẩn rạp chiếu tại nhà.
 
 Giao diện (UI) của ứng dụng được xây dựng theo ngôn ngữ thiết kế **Velvet Cinema** cao cấp với Dark Mode, Glassmorphism và Typography tối ưu (Space Grotesk & Manrope), đảm bảo sự dễ nhìn và thao tác mượt mà bằng **Remote TV (D-Pad)**.
 
@@ -29,10 +29,10 @@ Nếu bạn có Smart TV Samsung, file build `.wgt` luôn sẵn sàng để side
 2. Tại máy tính có công cụ SDB (hoặc Tizen Studio), gõ lệnh:
    ```bash
    sdb connect [IP_CỦA_TV_SAMSUNG]
-   sdb install OPhimTV.wgt
+   sdb install Kphim.wgt
    ```
 
-*(Bạn cũng có thể tự build file `.wgt` bằng lệnh zip: `zip -r OPhimTV.wgt *` ngay trong thư mục gốc).*
+*(Bạn cũng có thể tự build file `.wgt` bằng lệnh zip: `zip -r Kphim.wgt *` ngay trong thư mục gốc).*
 
 ### 2. Dành cho Môi trường Web / Trình duyệt
 
